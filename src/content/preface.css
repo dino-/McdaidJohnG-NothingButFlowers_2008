@@ -1,0 +1,16 @@
+@import "common.css";
+
+.preface {
+   text-align: justify;
+}
+
+div.preface > p {
+   font-weight: bold;
+   margin: 0em;
+}
+
+div.preface > p + p {
+   font-weight: normal;
+   font-style: oblique;
+   margin-bottom: 1em;
+}

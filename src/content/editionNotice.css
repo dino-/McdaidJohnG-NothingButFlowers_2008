@@ -1,0 +1,25 @@
+.edition-notice > * {
+   font-size: smaller;
+}
+
+p {
+   margin: 0em;
+}
+
+.first-line {
+   margin-top: 1.0em;
+}
+
+img {
+   vertical-align: top;
+   float: left;
+   margin-right: 0.5em;
+}
+
+.printing-history {
+   font-variant: small-caps;
+}
+
+.title {
+   text-decoration: underline;
+}

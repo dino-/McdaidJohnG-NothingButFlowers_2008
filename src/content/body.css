@@ -1,0 +1,45 @@
+@import "common.css";
+
+div.poem > p {
+   margin-top: 0em;
+   margin-bottom: 0em;
+}
+
+.poem {
+   margin-left: 2em;
+}
+
+.poem-author {
+   margin-left: 2em;
+}
+
+.poem-title {
+   margin-left: 2em;
+   text-decoration: underline;
+   padding-bottom: 2em;
+}
+
+.story {
+   /* color: red; */
+   margin: 0em;
+   /* line-height: 150%; */
+   text-align: justify;
+}
+
+div.story > p.section-break {
+   text-align: center;
+   text-indent: 0em;
+}
+
+div.story > p.section-break + p {
+   text-indent: 0.0em;
+}
+
+div.story > p {
+   margin: 0em;
+}
+
+div.story > p + p {
+   text-indent: 1.5em;
+   margin-top: 0.5em;
+}

@@ -1,0 +1,54 @@
+<?xml version="1.1"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="McdaidJohnG-NothingButFlowers">
+
+   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:title>(Nothing But) Flowers</dc:title>
+      <dc:date>2008</dc:date>
+      <dc:identifier id="McdaidJohnG-NothingButFlowers">McdaidJohnG-NothingButFlowers</dc:identifier>
+      <dc:creator>John G. McDaid</dc:creator>
+      <dc:type>Text</dc:type>
+      <dc:language>en</dc:language>
+      <dc:rights>This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/us/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA</dc:rights> 
+   </metadata>
+
+   <manifest>
+      <item id="ncx" href="toc.ncx"
+         media-type="application/x-dtbncx+xml" />
+      <item id="acknowledgments" href="content/acknowledgments.html"
+         media-type="application/xhtml+xml" />
+      <item id="body-css" href="content/body.css"
+         media-type="text/css" />
+      <item id="body" href="content/body.html"
+         media-type="application/xhtml+xml" />
+      <item id="cclogo" href="content/cc_by-nc-sa_3.0-us-88x31.png"
+         media-type="image/png" />
+      <item id="common-css" href="content/common.css"
+         media-type="text/css" />
+      <item id="dedication-css" href="content/dedication.css"
+         media-type="text/css" />
+      <item id="dedication" href="content/dedication.html"
+         media-type="application/xhtml+xml" />
+      <item id="editionNotice-css" href="content/editionNotice.css"
+         media-type="text/css" />
+      <item id="editionNotice" href="content/editionNotice.html"
+         media-type="application/xhtml+xml" />
+      <item id="preface-css" href="content/preface.css"
+         media-type="text/css" />
+      <item id="preface" href="content/preface.html"
+         media-type="application/xhtml+xml" />
+      <item id="titlePage-css" href="content/titlePage.css"
+         media-type="text/css" />
+      <item id="titlePage" href="content/titlePage.html"
+         media-type="application/xhtml+xml" />
+   </manifest>
+
+   <spine toc="ncx">
+      <itemref idref="titlePage" />
+      <itemref idref="editionNotice" />
+      <itemref idref="dedication" />
+      <itemref idref="preface" />
+      <itemref idref="body" />
+      <itemref idref="acknowledgments" />
+   </spine>
+
+</package>
