@@ -1,9 +1,5 @@
 @import "common.css";
 
-.preface {
-   text-align: justify;
-}
-
 div.preface > p {
    font-weight: bold;
    margin: 0em;
