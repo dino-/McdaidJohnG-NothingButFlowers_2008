@@ -17,7 +17,9 @@ img {
 }
 
 .printing-history {
-   font-variant: small-caps;
+   /* The Sony PRS-505 isn't respecting small-caps. Together with using actual caps in the HTML, this style change is an ugly simulation.
+   font-variant: small-caps; */
+   font-size: 70%;
 }
 
 .edition {
