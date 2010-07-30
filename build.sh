@@ -1,3 +1,3 @@
 #! /bin/sh
 
-epub-build.sh ../McdaidJohnG-NothingButFlowers_2008.epub
+epub-zip ../McdaidJohnG-NothingButFlowers_2008.epub
