@@ -20,11 +20,11 @@
          <content src="content/titlePage.html" />
       </navPoint>
 
-      <navPoint id="editionNotice" playOrder="2">
+      <navPoint id="colophon" playOrder="2">
          <navLabel>
-            <text>Edition notice</text>
+            <text>Colophon</text>
          </navLabel>
-         <content src="content/editionNotice.html" />
+         <content src="content/colophon.html" />
       </navPoint>
 
       <navPoint id="dedication" playOrder="3">

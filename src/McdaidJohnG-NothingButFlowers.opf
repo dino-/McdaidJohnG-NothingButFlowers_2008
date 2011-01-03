@@ -28,9 +28,9 @@
          media-type="text/css" />
       <item id="dedication" href="content/dedication.html"
          media-type="application/xhtml+xml" />
-      <item id="editionNotice-css" href="content/editionNotice.css"
+      <item id="colophon-css" href="content/colophon.css"
          media-type="text/css" />
-      <item id="editionNotice" href="content/editionNotice.html"
+      <item id="colophon" href="content/colophon.html"
          media-type="application/xhtml+xml" />
       <item id="preface-css" href="content/preface.css"
          media-type="text/css" />
@@ -44,7 +44,7 @@
 
    <spine toc="ncx">
       <itemref idref="titlePage" />
-      <itemref idref="editionNotice" />
+      <itemref idref="colophon" />
       <itemref idref="dedication" />
       <itemref idref="preface" />
       <itemref idref="body" />
