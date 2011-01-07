@@ -1,7 +1,9 @@
 <?xml version="1.1"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="defaultId">
 
-   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <metadata
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:opf="http://www.idpf.org/2007/opf">
       <dc:title>(Nothing But) Flowers</dc:title>
       <dc:date opf:event="original-publication">2008</dc:date>
       <dc:identifier id="defaultId">McdaidJohnG-NothingButFlowers</dc:identifier>
