@@ -19,6 +19,12 @@ stores the files required to continue that maintenance.
 The book's official page is here at [Mr McDaid's site](http://harddeadlines.com/node/984) which links to the [EPUB file here](http://ui3.info/d/misc/McdaidJohnG-NothingButFlowers_2008.epub)
 
 
+## Building the work
+
+Make changes to the files in `src/` and the run the `build.sh`
+script to zip the files the proper way for the EPUB format.
+
+
 ## Contact
 
 Dino Morelli <[dino@ui3.info](mailto:dino@ui3.info)>
