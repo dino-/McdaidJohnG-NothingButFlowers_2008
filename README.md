@@ -21,7 +21,7 @@ The book's official page is here at [Mr McDaid's site](http://harddeadlines.com/
 
 ## Building the work
 
-Make changes to the files in `src/` and the run the `build.sh`
+Make changes to the files in `src/` and then run the `build.sh`
 script to zip the files the proper way for the EPUB format.
 
 
