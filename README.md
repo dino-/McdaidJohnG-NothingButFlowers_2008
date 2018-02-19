@@ -21,7 +21,7 @@ The book's official page is here at [Mr McDaid's site](http://harddeadlines.com/
 
 ## Building the work
 
-Get the source with darcs: `$ darcs get http://hub.darcs.net/dino/McdaidJohnG-NothingButFlowers_2008`
+Get the source with darcs: `$ git clone https://github.com/dino-/McdaidJohnG-NothingButFlowers_2008.git`
 
 Make changes to the files in `src/` and then run the `build.sh`
 script to zip the files the proper way for the EPUB format.
